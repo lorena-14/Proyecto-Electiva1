@@ -1,8 +1,8 @@
-# Nombre de la aplicación
+# Multi reseña
 
-Reemplace este texto con una descripción de su aplicación. Revise el archivo [HELP.md](HELP.md) donde hay mas información sobre como usar esta plantilla.
+Multi reseña es una aplicación que permite consultar, registrar y llevar un seguimiento de películas, series y libros por medio de una app amigable con el usuario. La aplicación obtiene la información de fuentes públicas como the movie DB (para películas) y google books (para libros), permitiendo al usuario marcar el contenido como visto o leído, añadir reseñas personales y asignar calificación de 0 a 5 estrellas.
 
-Autor(es): Nombre del estudiante
+Autor(es): Melissa Lorena Vela Martinez
 
 ## Referencias
 
