@@ -4,7 +4,7 @@ La aplicación tendrá la siguientes pantallas
 
 1. Pantalla 1: Login
 
-![screen1](Multi reseña_page-0001.jpg)
+![screen1](docs/images/Multi_reseña_page-0001.jpg)
 
 # Referencias
 
