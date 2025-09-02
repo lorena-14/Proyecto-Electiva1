@@ -2,9 +2,9 @@
 
 La aplicación tendrá la siguientes pantallas
 
-1. Pantalla 1: Lorem Ipsum Dolor
+1. Pantalla 1: Login
 
-![screen1](images/waze_app_screenshot.jpg)
+![screen1](Multi reseña_page-0001.jpg)
 
 # Referencias
 
