@@ -30,7 +30,7 @@ La aplicación tendrá la siguientes pantallas
 
 ![screen1](images/Multi_reseña_page-0007.jpg)
 
-8. Pantalla 8: Calificación que el usuario previamnete le ha dado a las películas, series y libros
+8. Pantalla 8: Calificación que el usuario previamente le ha dado a las películas, series y libros
 
 ![screen1](images/Multi_reseña_page-0008.jpg)
 
